@@ -8,6 +8,7 @@ lab:
 # Student lab manual
 
 ## Lab scenario
+<details><summary>Details</summary>
 
 You have been asked to create a proof of concept showing how Azure users and groups are created. Also, how role-based access control is used to assign roles to groups. Specifically, you need to:
 
@@ -17,8 +18,10 @@ You have been asked to create a proof of concept showing how Azure users and gro
 - Assign the Virtual Machine Contributor role to the Service Desk group. 
 
 > For all the resources in this lab, we are using the **East US** region. Verify with your instructor this is the region to use for class. 
+</details>
 
 ## Lab objectives
+<details><summary>Details</summary>
 
 In this lab, you will complete the following exercises
 
@@ -26,6 +29,7 @@ In this lab, you will complete the following exercises
 - Exercise 2: Create the Junior Admins group with the user account Isabel Garcia as its member (PowerShell).
 - Exercise 3: Create the Service Desk group with the user Dylan Williams as its member (Azure CLI). 
 - Exercise 4: Assign the Virtual Machine Contributor role to the Service Desk group.
+</details>
 
 ### Exercise 1: Create the Senior Admins group with the user account Joseph Price as its member. 
 
