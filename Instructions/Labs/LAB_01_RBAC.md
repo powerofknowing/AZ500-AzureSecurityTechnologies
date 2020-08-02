@@ -333,7 +333,10 @@ In this exercise, you will complete the following tasks:
 
 </details>
 
-**Clean up resources**
+---
+
+<details><summary>Clean up resources</summary>
+
 
 > Remember to remove any newly created Azure resources that you no longer use. Removing unused resources ensures you will not incur unexpected costs.
 
@@ -348,3 +351,5 @@ In this exercise, you will complete the following tasks:
     ```
 
 1.  Close the **Cloud Shell** pane. 
+
+</details>
