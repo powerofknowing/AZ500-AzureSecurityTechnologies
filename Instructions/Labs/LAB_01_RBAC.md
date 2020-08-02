@@ -33,6 +33,8 @@ In this lab, you will complete the following exercises
 - Exercise 4: Assign the Virtual Machine Contributor role to the Service Desk group.
 </details>
 
+---
+
 ### Exercise 1: Create the Senior Admins group with the user account Joseph Price as its member. 
 
 <details><summary>Details</summary>
@@ -95,6 +97,8 @@ In this task, you will create the *Senior Admins* group, add the user account of
 > Result: You used the Azure Portal to create a user and a group, and assigned the user to the group. 
 
 </details>
+
+--- 
 
 ### Exercise 2: Create a Junior Admins group containing the user account of Isabel Garcia as its member.
 
@@ -190,6 +194,8 @@ In this task, you will create the Junior Admins group and add the user account o
 
 </details>
 
+---
+
 ### Exercise 3: Create a Service Desk group containing the user account of Dylan Williams as its member.
 
 <details><summary>Details</summary>
@@ -270,6 +276,8 @@ In this task, you will create the Service Desk group and assign Dylan to the gro
 > Result: Using Azure CLI you created a user and a group accounts, and added the user account to the group. 
 
 </details>
+
+---
 
 ### Exercise 4: Assign the Virtual Machine Contributor role to the Service Desk group.
 
