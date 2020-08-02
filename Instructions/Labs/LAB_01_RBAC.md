@@ -9,6 +9,7 @@ lab:
 
 ## Lab scenario
 <details><summary>Details</summary>
+<p>
 
 You have been asked to create a proof of concept showing how Azure users and groups are created. Also, how role-based access control is used to assign roles to groups. Specifically, you need to:
 
@@ -18,6 +19,7 @@ You have been asked to create a proof of concept showing how Azure users and gro
 - Assign the Virtual Machine Contributor role to the Service Desk group. 
 
 > For all the resources in this lab, we are using the **East US** region. Verify with your instructor this is the region to use for class. 
+</p>
 </details>
 
 ## Lab objectives
