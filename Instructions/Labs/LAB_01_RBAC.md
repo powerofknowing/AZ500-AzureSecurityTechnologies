@@ -37,6 +37,7 @@ In this lab, you will complete the following exercises
 
 #### Estimated timing: 10 minutes
 
+<details><summary>Details</summary>
 In this exercise, you will complete the following tasks:
 
 - Task 1: Use the Azure portal to create a user account for Joseph Price.
@@ -92,6 +93,8 @@ In this task, you will create the *Senior Admins* group, add the user account of
 1. Back on the **New Group** blade, click **Create**.
 
 > Result: You used the Azure Portal to create a user and a group, and assigned the user to the group. 
+
+</details>
 
 ### Exercise 2: Create a Junior Admins group containing the user account of Isabel Garcia as its member.
 
