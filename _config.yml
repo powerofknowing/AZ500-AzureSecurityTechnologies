@@ -1,4 +1,4 @@
-remote_theme: MicrosoftLearning/Jekyll-Theme
+theme: jekyll-theme-leap-day
 exclude:
   - readme.md
   - .github/
@@ -16,4 +16,3 @@ kramdown:
    syntax_highlighter_opts:
       disable : true
 
-theme: jekyll-theme-leap-day
